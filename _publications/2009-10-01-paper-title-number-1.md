@@ -15,3 +15,5 @@ This paper is about the number 1. The number 2 is left for future work.
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 -->
+
+For a full list of publications (patents and papers), please visit my [Google Scholar](https://scholar.google.com/citations?user=tK5tgocAAAAJ&hl=en).
