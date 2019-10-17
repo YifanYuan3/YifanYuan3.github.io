@@ -2,7 +2,7 @@
 title: "HALO: Accelerating Flow Classification for Scalable Packet Processing in NFV"
 collection: publications
 permalink: /publication/halo
-excerpt: 'This paper provides a on-CPU near-cache acceleration solution for cuckoo hash lookup, the core operation of modern virtual switch.'
+excerpt: 'This paper provides a on-CPU near-cache acceleration solution for cuckoo hash lookup, the core operation of modern virtual switch. [slides](https://YifanYuan3.github.io/files/halo.pptx)'
 date: '2019.6.22'
 venue: 'ISCA'
 ---

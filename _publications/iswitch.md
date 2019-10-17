@@ -2,7 +2,7 @@
 title: "Accelerating Distributed Reinforcement Learning with In-Switch Computing"
 collection: publications
 permalink: /publication/iswitch
-excerpt: 'This paper presents an algorithm/hardware co-design to accelerate gradient aggregation in distributed reinforcement learning training.'
+excerpt: 'This paper presents an algorithm/hardware co-design to accelerate gradient aggregation in distributed reinforcement learning training. [slides](https://YifanYuan3.github.io/files/iswitch.pdf)'
 date: '2019.6.22'
 venue: 'NSDI (poseter), ISCA (full paper)'
 ---
