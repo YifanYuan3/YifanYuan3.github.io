@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yifan Yuan"
   avatar           : "profile.JPG"
-  bio              : "PhD candidate of ECE@UIUC<br><br>yifany3 [at] illinois [dot] edu<br><br> Office 213,<br> 1308 W Main St, <br>Urbana, IL 61801"
-  location         : #""
+  bio              : "PhD candidate of ECE@UIUC<br><br>yifany3 [at] illinois [dot] edu"
+  location         : "Office 213, 1308 W Main St, <br>Urbana, IL 61801"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tK5tgocAAAAJ&hl=en"
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  patents:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,7 +230,7 @@ defaults:
   # _patents
   - scope:
       path: ""
-      type: patents
+      type: publications 
     values:
       layout: single
       author_profile: true
