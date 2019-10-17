@@ -3,7 +3,7 @@ title: "Offload of Data Lookup Operations"
 collection: patents
 permalink: /patent/halo
 excerpt: 'The corresponding patent of HALO.'
-date: 2018.11.3
+date: 2019.4.4
 patent-number: 'US Patent App. 16/207,065'
 status: 'pending'
 ---
