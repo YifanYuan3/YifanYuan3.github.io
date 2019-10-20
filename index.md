@@ -1,5 +1,1 @@
-Welcome! I'm Yifan (亦凡) Yuan (袁), a PhD candidate of [ECE@UIUC](https://ece.illinois.edu). Advised by Prof. Nam Sung Kim, I'm interested in computer architecture and system, especially building modern data center networking with emerging hardware. 
-
-Before joining UIUC in 2017, I spent three years on my undergraduate study at [Zhejiang University (ZJU)](http://www.zju.edu.cn/english/), focusing on computer architecture and VLSI design.
-
-I grew up in [Tianjin](https://en.wikipedia.org/wiki/Tianjin), a city in China with spirit of humor and optimism. I enjoy badminton and swimming. 
+Welcome to Yifan Yuan's website!
