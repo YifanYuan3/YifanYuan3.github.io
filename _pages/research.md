@@ -11,7 +11,7 @@ This brings us with two questions:
 1. How can we enhance the existing system (e.g., CPU, network stack) to let them carry the high-performance network more easily and efficiently?
 2. How can we leverage the network itself to do more, and thus accelerate certain networked applications?
 
-Our research tries to answer these two questions with from multiple aspects.
+Our research tries to answer these two questions from multiple aspects.
 
 For the first question, we not only consider the ways of better utilizing and managing existing hardware features (i.e., performance optimization and tuning), but also try to add new components (i.e., hardware accelerator) to further boost the performance of cloud applications and infrastructures.
 
