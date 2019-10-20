@@ -13,7 +13,7 @@ This brings us with two questions:
 
 Our research tries to answer these two questions with from multiple aspects.
 
-For the first question, we not only consider the ways of better utilizing and managing existing hardware features (i.e., performance optimization and tuning), but also try to add new components to further boost the performance (i.e., hardware accelerator). 
+For the first question, we not only consider the ways of better utilizing and managing existing hardware features (i.e., performance optimization and tuning), but also try to add new components (i.e., hardware accelerator) to further boost the performance of cloud applications and infrastructures.
 
 For the second question, we explore the design space of in-network (both NIC and switch) computing, and use distributed machine learning as a representative application to show the advantages of our ideas. 
 
