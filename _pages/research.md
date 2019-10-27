@@ -8,7 +8,7 @@ In modern data center, network is playing a critical rule. The performance of ne
 Also, emerging hardwares, such as FPGA and programmable ASIC, begin to power the network devices.
 This brings us with two questions:
 
-1. How can we enhance the existing system (e.g., CPU, network stack) to let them carry the high-performance network more easily and efficiently?
+1. How can we enhance the existing system components (e.g., CPU, network stack) to let them carry the high-performance network more easily and efficiently?
 2. How can we leverage the network itself to do more, and thus accelerate certain networked applications?
 
 Our research tries to answer these two questions from multiple aspects.
