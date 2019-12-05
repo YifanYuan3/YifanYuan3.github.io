@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yifan Yuan's website"
+title                    : "Yifan Yuan, ECE@UIUC"
 title_separator          : "-"
 name                     : &name "Yifan Yuan"
 description              : &description "yifany3 [at] illinois [dot] edu<br><br> Office 213,<br> 1308 W Main St, <br>Urbana, IL 61801"
