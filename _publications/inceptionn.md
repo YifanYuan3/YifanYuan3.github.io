@@ -1,7 +1,7 @@
 ---
 title: "A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks"
 collection: publications
-permalink: /publication/halo
+permalink: /publication/inceptionn
 excerpt: 'This paper provides an algorithm/hardware co-design to accelerate gradient aggregation in distributed deep learning training. [slides](https://YifanYuan3.github.io/files/inceptionn.pptx)'
 date: '2018.10.20'
 venue: 'MICRO'
