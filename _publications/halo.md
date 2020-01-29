@@ -2,7 +2,7 @@
 title: "HALO: Accelerating Flow Classification for Scalable Packet Processing in NFV"
 collection: publications
 permalink: /publication/halo
-excerpt: 'This paper provides a on-CPU near-cache acceleration solution for cuckoo hash lookup, the core operation of modern virtual switch. [slides](https://YifanYuan3.github.io/files/halo.pptx)'
+excerpt: 'This paper provides a on-CPU near-cache acceleration solution for cuckoo hash lookup, the core operation of modern virtual switch. [paper](https://doi.org/10.1145/3307650.3322272) [slides](https://YifanYuan3.github.io/files/halo.pptx)'
 date: '2019.6.22'
 venue: 'ISCA'
 ---
@@ -17,3 +17,7 @@ To make Halo more generic, we extend the x86-64 instruction set with three simpl
 We develop Halo with the full-system simulator gem5. 
 The experiments with a variety of real-world workloads of network services demonstrate that Halo improves the throughput of basic flow-rule lookup operations by 3.3×, and scales the representative flow classification algorithm – tuple space search by up to 23.4× with negligible negative impact on the performance of collocated network services, compared with state-of-the-art software-based solutions. 
 Halo also performs up to 48.2× more energy-efficient than the fastest but expensive ternary content-addressable memory (TCAM), with trivial power and area overhead.
+
+[paper](https://doi.org/10.1145/3307650.3322272)
+
+[slides](https://YifanYuan3.github.io/files/halo.pptx)
