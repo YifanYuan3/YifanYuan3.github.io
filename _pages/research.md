@@ -17,4 +17,4 @@ For the first question, we not only consider the ways of better utilizing and ma
 
 For the second question, we explore the potential of in-network (both NIC and switch) computing and use distributed machine learning as a representative application to show the advantages of our ideas. 
 
-We closely cooperate with industry (e.g., Intel) to guarantee that our research can be practical and feasible when solving real-world problems. 
+We closely cooperate with industry (e.g., Microsoft and Intel) to guarantee that our research can be practical and feasible when solving real-world problems. 
