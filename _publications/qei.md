@@ -2,7 +2,7 @@
 title: "QEI: Query Acceleration Can be Generic and Efficient in the Cloud"
 collection: publications
 permalink: /publication/qei
-excerpt: 'This paper proposes a generic accelerator architecture for fine-gained latency-sensitive queries in various data structures. It also proposes a hybrid scheme for the accelerator to be efficiently integrated into modern server CPU. [paper]() [slide](https://YifanYuan3.github.io/files/qei.pptx)'
+excerpt: 'This paper proposes a generic accelerator architecture for fine-gained latency-sensitive queries in various data structures. It also proposes a hybrid scheme for the accelerator to be efficiently integrated into modern server CPU. [paper](https://ieeexplore.ieee.org/document/9407097) [slide](https://YifanYuan3.github.io/files/qei.pptx)'
 date: '2021.2.27'
 venue: 'HPCA'
 ---
@@ -20,4 +20,4 @@ We also propose a novel way to integrate the accelerator into the CPU that balan
 QEI keeps the main control logic near the L2 cache to leverage existing hardware resources in the core while distributing the data-intensive comparison logic to each last-level cache slice for higher parallelism.
 Our results with five representative data center workloads show that QEI can achieve 6.5x~11.2x performance improvement in various scenarios with low overhead. 
 
-[paper]() [slide](https://YifanYuan3.github.io/files/qei.pptx)
+[paper](https://ieeexplore.ieee.org/document/9407097) [slide](https://YifanYuan3.github.io/files/qei.pptx)
