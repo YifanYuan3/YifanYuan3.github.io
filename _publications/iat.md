@@ -2,7 +2,7 @@
 title: "Don't Forget the I/O When Allocating Your LLC"
 collection: publications
 permalink: /publication/iat
-excerpt: 'This paper proposes the first I/O-aware LLC management mechanism for performance isolation in DDIO-enable platform. [paper (IEEE copyright, for personal use only)](https://conferences.computer.org/iscapub/pdfs/ISCA2021-4ghucdBnCWYB7ES2Pe4YdT/333300a112/333300a112.pdf) [arXiv version](https://arxiv.org/abs/2007.04552)'
+excerpt: 'This paper proposes the first I/O-aware LLC management mechanism for performance isolation in DDIO-enable platform. [paper (IEEE copyright, for personal use only)](https://conferences.computer.org/iscapub/pdfs/ISCA2021-4ghucdBnCWYB7ES2Pe4YdT/333300a112/333300a112.pdf) [arXiv version](https://arxiv.org/abs/2007.04552) [slides](https://YifanYuan3.github.io/files/iat.pptx)'
 date: '2021.6.14'
 venue: 'ISCA'
 ---
@@ -12,3 +12,4 @@ We then present IAT, the first LLC management mechanism that treats the I/O as t
 
 [paper (IEEE copyright, for personal use only)](https://conferences.computer.org/iscapub/pdfs/ISCA2021-4ghucdBnCWYB7ES2Pe4YdT/333300a112/333300a112.pdf)
 [arXiv version](https://arxiv.org/abs/2007.04552)
+[slides](https://YifanYuan3.github.io/files/iat.pptx)
