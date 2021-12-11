@@ -15,4 +15,4 @@ For a PDF Version
 [CV](https://YifanYuan3.github.io/files/cv_yifan_yuan.pdf)
 
 
-Last update: Oct. 2021
+Last update: Dec. 2021
