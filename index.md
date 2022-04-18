@@ -1,6 +1,5 @@
 Welcome to Yifan Yuan's website!
 
-**I am on the job market this year, looking for industry research lab positions.**
 
 **NEWS [Dec. 2021]**: our paper ["Unlocking the Power of Inline Floating-Point Operations on Programmable Switches"](https://yifanyuan3.github.io/publication/fpisa) has been accepted by NSDI'22.
 
