@@ -6,6 +6,7 @@ excerpt: 'This paper proposes a versatile and flexible approach for floating-poi
 date: '2022.4.4'
 venue: 'NSDI'
 
+
 ---
 The advent of switches with programmable dataplanes has enabled the rapid development of new network functionality, as well as providing a platform for acceleration of a broad range of application-level functionality. However, existing switch hardware was not designed with application acceleration in mind, and thus applications requiring operations or datatypes not used in traditional network protocols must resort to expensive workarounds. Applications involving floating point data, including distributed training for machine learning and distributed query processing, are key examples.
 
