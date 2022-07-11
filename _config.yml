@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yifan Yuan, ECE@UIUC"
+title                    : "Yifan Yuan, Intel Labs"
 title_separator          : "-"
 name                     : &name "Yifan Yuan"
 description              : &description "yifan.yuan [at] intel [dot] com"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yifan Yuan"
   avatar           : "profile.JPG"
-  bio              : "PhD candidate of ECE@UIUC<br><br>yifan.yuan [at] intel [dot] com"
-  location         : "Office 213, 1308 W Main St, <br>Urbana, IL 61801"
+  bio              : "Research scientist of Intel Labs<br><br>yifan.yuan [at] intel [dot] com"
+  location         : ""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tK5tgocAAAAJ&hl=en"
