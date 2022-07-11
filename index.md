@@ -1,5 +1,7 @@
 Welcome to Yifan Yuan's website!
 
+**NEWS [July 2022]**: Joined Intel Labs as a research scientist.
+
 **NEWS [May 2022]**: Successfully defended my PhD dissertation.
 
 **NEWS [Dec. 2021]**: our paper ["Unlocking the Power of Inline Floating-Point Operations on Programmable Switches"](https://yifanyuan3.github.io/publication/fpisa) has been accepted by NSDI'22.
