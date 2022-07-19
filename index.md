@@ -1,5 +1,7 @@
 Welcome to Yifan Yuan's website!
 
+**NEWS [July. 2022]**: our paper ["IDIO: Network-Driven, Inbound Network Data Orchestration on Server Processors"](https://yifanyuan3.github.io/publication/idio) has been accepted by MICRO'22.
+
 **NEWS [July 2022]**: Joined Intel Labs as a research scientist.
 
 **NEWS [May 2022]**: Successfully defended my PhD dissertation.
