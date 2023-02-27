@@ -2,7 +2,7 @@
 title: "RAMBDA: RDMA-driven Acceleration Framework for Memory-intensive us-scale Datacenter Applications"
 collection: publications
 permalink: /publication/rambda
-excerpt: 'Responding to the "datacenter tax" and "killer microseconds" problems, this paper proposes a holistic solution for us-scale datacenter applications accelerations, leveraging emerging RDMA and cache-coherent accelerator techniques. [paper](https://YifanYuan3.github.io/files/rambda-hpca23.pdf) [arXiv version](https://arxiv.org/abs/2203.08906) [slides]()'
+excerpt: 'Responding to the "datacenter tax" and "killer microseconds" problems, this paper proposes a holistic solution for us-scale datacenter applications accelerations, leveraging emerging RDMA and cache-coherent accelerator techniques. [paper](https://YifanYuan3.github.io/files/rambda-hpca23.pdf) [arXiv version](https://arxiv.org/abs/2203.08906) [slides](https://YifanYuan3.github.io/files/rambda.pptx)'
 date: '2023.2.25'
 venue: 'HPCA'
 
@@ -16,4 +16,4 @@ We prototype RAMBDA with a commercial system and evaluate three popular datacent
 
 [paper](https://YifanYuan3.github.io/files/rambda-hpca23.pdf) 
 [arXiv version](https://arxiv.org/abs/2203.08906) 
-[slides]()
+[slides](https://YifanYuan3.github.io/files/rambda.pptx)
