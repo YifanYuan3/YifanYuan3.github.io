@@ -1,5 +1,7 @@
 Welcome to Yifan Yuan's website!
 
+**NEWS [Oct. 2022]**: our paper ["STYX: Exploiting SmartNIC Capability to Reduce Datacenter Memory Tax"](https://yifanyuan3.github.io/publication/sytx) has been accepted by ATC'23.
+
 **NEWS [Oct. 2022]**: our paper ["RAMBDA: RDMA-driven Acceleration Framework for Memory-intensive us-scale Datacenter Applications"](https://yifanyuan3.github.io/publication/rambda) has been accepted by HPCA'23.
 
 **NEWS [Jul. 2022]**: our paper ["IDIO: Network-Driven, Inbound Network Data Orchestration on Server Processors"](https://yifanyuan3.github.io/publication/idio) has been accepted by MICRO'22.
