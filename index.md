@@ -24,6 +24,5 @@ Welcome to Yifan Yuan's website!
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-4Z2VN5LL3G');
 </script>
