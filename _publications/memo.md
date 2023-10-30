@@ -2,7 +2,7 @@
 title: "Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices"
 collection: publications
 permalink: /publication/memo
-excerpt: 'This paper is the first-ever characterization study of real commodity CXL memory devices. We develop and open-source MEMO benchmark for CXL memory testing, and develop a auto-tuning algorithm to make the most out of the CXL devices as not only capacity expander but also bandwidth expander. [arXiv version](https://arxiv.org/abs/2303.15375) '
+excerpt: 'This paper is the first-ever characterization study of real commodity CXL memory devices. We develop and open-source MEMO benchmark for CXL memory testing, and develop a auto-tuning algorithm to make the most out of the CXL devices as not only capacity expander but also bandwidth expander. [arXiv version](https://arxiv.org/abs/2303.15375) [slides](https://YifanYuan3.github.io/files/cxl-micro23.pptx)'
 date: '2023.10.28'
 venue: 'MICRO'
 
@@ -14,3 +14,5 @@ In this paper, we first evaluate true CXL-ready systems based on the latest 4th-
 
 
 [arXiv version](https://arxiv.org/abs/2303.15375)
+
+[slides](https://YifanYuan3.github.io/files/cxl-micro23.pptx)
