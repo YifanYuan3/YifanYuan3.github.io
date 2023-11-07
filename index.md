@@ -1,5 +1,7 @@
 Welcome to Yifan Yuan's website!
 
+**NEWS [Nov. 2023]**: our paper [A Quantitative Analysis and Guidelines of Data Streaming  Accelerator in Intel 4th Gen Xeon Scalable Processors](https://yifanyuan3.github.io/publication/dsa), the first paper of DSA on the latest Intel Xeon CPUs, has been accepted by ASPLOS'24.
+
 **NEWS [Jul. 2023]**: our paper [Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices](https://yifanyuan3.github.io/publication/memo), the first-ever characterization study of real CXL memory, has been accepted by MICRO'23.
 
 **NEWS [Apr. 2023]**: our paper ["STYX: Exploiting SmartNIC Capability to Reduce Datacenter Memory Tax"](https://yifanyuan3.github.io/publication/sytx) has been accepted by ATC'23.
