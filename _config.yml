@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yifan Yuan, Intel Labs"
 title_separator          : "-"
 name                     : &name "Yifan Yuan"
-description              : &description "yifan.yuan [at] intel [dot] com"
+description              : &description "yifany3 [at] gmail [dot] com"
 url                      : https://YifanYuan3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yifan Yuan"
   avatar           : "profile.JPG"
-  bio              : "Research scientist of Intel Labs<br><br>yifan.yuan [at] intel [dot] com"
+  bio              : "Research scientist of Intel Labs<br><br>yifany3 [at] gmail [dot] com"
   location         : ""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
