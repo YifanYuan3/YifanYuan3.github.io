@@ -1,8 +1,8 @@
 ---
-title: "A Quantitative Analysis and Guidelines of Data Streaming  Accelerator in Intel 4th Gen Xeon Scalable Processors"
+title: "A Quantitative Analysis and Guidelines of Data Streaming  Accelerator in ModernIntel Xeon Scalable Processors"
 collection: publications
 permalink: /publication/dsa
-excerpt: 'This paper is the authentic characterization study of Intel Data Streaming Accelerator (DSA) in Intel 4th Gen Xeon Scalable Processors. It provides introduction, performance analysis, optimization guide, ecosystem, and real use cases of DSA. [arXiv version](https://arxiv.org/abs/2305.02480) '
+excerpt: 'This paper is the authentic characterization study of Intel Data Streaming Accelerator (DSA) in modern Intel Xeon Scalable Processors. It provides introduction, performance analysis, optimization guide, ecosystem, and real use cases of DSA. [arXiv version](https://arxiv.org/abs/2305.02480) '
 date: '2024.4.27'
 venue: 'ASPLOS'
 
