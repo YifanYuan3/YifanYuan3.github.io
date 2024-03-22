@@ -1,6 +1,10 @@
 Welcome to Yifan Yuan's website!
 
-**NEWS [Nov. 2023]**: our paper [A Quantitative Analysis and Guidelines of Data Streaming  Accelerator in Intel 4th Gen Xeon Scalable Processors](https://yifanyuan3.github.io/publication/dsa), the first paper of DSA on the latest Intel Xeon CPUs, has been accepted by ASPLOS'24.
+**NEWS [Nov. 2023]**: our paper [Nomad: Non-Exclusive Memory Tiering via Transactional Page Migration](https://yifanyuan3.github.io/publication/nomad) has been accepted by OSDI'24.
+
+**NEWS [Nov. 2023]**: our paper [Intel Accelerator Ecosystem: An SoC-Oriented Perspective](https://yifanyuan3.github.io/publication/intel-accelerators),  describing Intel's years' efforts on building hardware-software ecosystems for data-intensive accelerators, has been accepted by ISCA'24 Industry Track.
+
+**NEWS [Nov. 2023]**: our paper [A Quantitative Analysis and Guidelines of Data Streaming  Accelerator in Modern Intel Xeon Scalable Processors](https://yifanyuan3.github.io/publication/dsa), the first paper of DSA on the latest Intel Xeon CPUs, has been accepted by ASPLOS'24.
 
 **NEWS [Jul. 2023]**: our paper [Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices](https://yifanyuan3.github.io/publication/memo), the first-ever characterization study of real CXL memory, has been accepted by MICRO'23.
 
