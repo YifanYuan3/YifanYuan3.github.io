@@ -2,7 +2,7 @@
 title: "A Quantitative Analysis and Guidelines of Data Streaming  Accelerator in ModernIntel Xeon Scalable Processors"
 collection: publications
 permalink: /publication/dsa
-excerpt: 'This paper is the authentic characterization study of Intel Data Streaming Accelerator (DSA) in modern Intel Xeon Scalable Processors. It provides introduction, performance analysis, optimization guide, ecosystem, and real use cases of DSA. [paper](https://dl.acm.org/doi/abs/10.1145/3620665.3640401)  [arXiv version](https://arxiv.org/abs/2305.02480) '
+excerpt: 'This paper is the authentic characterization study of Intel Data Streaming Accelerator (DSA) in modern Intel Xeon Scalable Processors. It provides introduction, performance analysis, optimization guide, ecosystem, and real use cases of DSA. [paper](https://dl.acm.org/doi/abs/10.1145/3620665.3640401)  [arXiv version](https://arxiv.org/abs/2305.02480) [slides](https://YifanYuan3.github.io/files/dsa-asplos24.pptx)'
 date: '2024.4.27'
 venue: 'ASPLOS'
 
@@ -13,3 +13,5 @@ As semiconductor power density is no longer constant with the technology process
 [paper](https://dl.acm.org/doi/abs/10.1145/3620665.3640401)
 
 [arXiv version](https://arxiv.org/abs/2305.02480)
+
+[slides](https://YifanYuan3.github.io/files/dsa-asplos24.pptx)
