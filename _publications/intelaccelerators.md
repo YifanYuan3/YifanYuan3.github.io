@@ -1,7 +1,7 @@
 ---
 title: "Intel Accelerator Ecosystem: An SoC-Oriented Perspective"
 collection: publications
-permalink: /publication/intel-accelerators
+permalink: /publication/intelaccelerators
 excerpt: 'This paper is the authentic retrospect of Intel's journey of building SoC-level features and software ecosystems for accelerators, and integrating various data accelerators into the modern Xeon CPU chips.'
 date: '2024.6.29'
 venue: 'ISCA (Industry Track)'
