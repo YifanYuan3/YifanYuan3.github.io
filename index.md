@@ -2,7 +2,7 @@ Welcome to Yifan Yuan's website!
 
 **NEWS [Mar. 2024]**: our paper [Nomad: Non-Exclusive Memory Tiering via Transactional Page Migration](https://yifanyuan3.github.io/publication/nomad) has been accepted by OSDI'24.
 
-**NEWS [Mar. 2024]**: our paper [Intel Accelerator Ecosystem: An SoC-Oriented Perspective](https://yifanyuan3.github.io/publication/intelaccelerators),  describing Intel's years' efforts on building hardware-software ecosystems for data-intensive accelerators, has been accepted by ISCA'24 Industry Track.
+**NEWS [Mar. 2024]**: our paper [Intel Accelerator Ecosystem: An SoC-Oriented Perspective](https://yifanyuan3.github.io/publication/isca2024),  describing Intel's years' efforts on building hardware-software ecosystems for data-intensive accelerators, has been accepted by ISCA'24 Industry Track.
 
 **NEWS [Nov. 2023]**: our paper [A Quantitative Analysis and Guidelines of Data Streaming  Accelerator in Modern Intel Xeon Scalable Processors](https://yifanyuan3.github.io/publication/dsa), the first paper of DSA on the latest Intel Xeon CPUs, has been accepted by ASPLOS'24.
 
