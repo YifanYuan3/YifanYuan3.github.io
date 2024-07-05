@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yifan Yuan, Meta Infra"
+title                    : "Yifan Yuan, Meta AI-Systems Co-design"
 title_separator          : "-"
 name                     : &name "Yifan Yuan"
 description              : &description "yifany3 [at] gmail [dot] com"
