@@ -1,6 +1,6 @@
 Welcome to Yifan Yuan's website!
 
-**NEWS [Mar. 2024]**: our paper [Demystifying a CXL Type2 Device: A Heterogeneous Cooperative Computing Perspective](https://yifanyuan3.github.io/publication/cxl2), the first-ever paper based on real CXL Type-2 device, has been accepted by MICRO'24.
+**NEWS [Jul. 2024]**: our paper [Demystifying a CXL Type2 Device: A Heterogeneous Cooperative Computing Perspective](https://yifanyuan3.github.io/publication/cxl2), the first-ever paper based on real CXL Type-2 device, has been accepted by MICRO'24.
 
 **NEWS [Mar. 2024]**: our paper [Nomad: Non-Exclusive Memory Tiering via Transactional Page Migration](https://yifanyuan3.github.io/publication/nomad) has been accepted by OSDI'24.
 
