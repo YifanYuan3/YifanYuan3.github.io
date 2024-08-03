@@ -1,7 +1,7 @@
 ---
 title: "Demystifying a CXL Type2 Device: A Heterogeneous Cooperative Computing Perspective"
 collection: publications
-permalink: /publication/memo
+permalink: /publication/cxl2
 excerpt: 'This paper is the first-ever characterization study of real commodity CXL Type-2 devices. We also introduce a real-world use case of Type-2 device as cache-coherent accelerator for Linux kernel function offloading. [paper]() [slides]()'
 date: '2024.11.2'
 venue: 'MICRO'
