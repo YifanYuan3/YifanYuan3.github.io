@@ -2,16 +2,16 @@
 title: "Intel Accelerators Ecosystem: An SoC-Oriented Perspective"
 collection: publications
 permalink: /publication/qat
-excerpt: 'This paper is the authentic retrospect of Intel's journey of building SoC-level features and software ecosystems for accelerators, and integrating various data accelerators into the modern Xeon CPU chips. [paper](https://ieeexplore.ieee.org/document/10609705) [slides](https://YifanYuan3.github.io/files/isca2024industry.pptx)'
+excerpt: 'This paper is the authentic characterization study of Intel Data Streaming Accelerator (DSA) in modern Intel Xeon Scalable Processors. It provides introduction, performance analysis, optimization guide, ecosystem, and real use cases of DSA. [paper](https://dl.acm.org/doi/abs/10.1145/3620665.3640401)  [arXiv version](https://arxiv.org/abs/2305.02480) [slides](https://YifanYuan3.github.io/files/dsa-asplos24.pptx)'
 date: '2024.6.29'
 venue: 'ISCA (Industry Track)'
 
 ---
 
-A growing demand for hyperscale services has compelled hyperscalers to deploy more compute resources at an unprecedented pace, further accelerated by the demise of Dennard scaling. Meanwhile, a considerable portion of the compute resources are consumed to execute common functions present across the hyperscale services, i.e., datacenter taxes. These challenges motivated many to explore specialized accelerators for these functions. Leading such a technology trend, Intel has integrated diverse on-chip accelerators into its recent flagship datacenter CPU products. Furthermore, to support the easy and efficient use of these accelerators for successful deployment in production hyperscale services, Intel has developed a hardware/software ecosystem.
+As semiconductor power density is no longer constant with the technology process scaling down, modern CPUs are integrating capable data accelerators on chip, aiming to improve performance and efficiency for a wide range of applications and usages. One such accelerator is the Intel Data Streaming Accelerator (DSA) introduced in Intel 4th Generation Xeon Scalable CPUs (Sapphire Rapids). DSA targets data movement operations in memory that are common sources of overhead in datacenter workloads and infrastructure. In addition, it becomes much more versatile by supporting a wider range of operations on streaming data, such as CRC32 calculations, delta record creation/merging, and data integrity field (DIF) operations. This paper sets out to introduce the latest features supported by DSA, deep-dive into its versatility, and analyze its throughput benefits through a comprehensive evaluation. Along with the analysis of its characteristics, and the rich software ecosystem of DSA, we summarize several insights and guidelines for the programmer to make the most out of DSA, and use an in-depth case study of DPDK Vhost to demonstrate how these guidelines benefit a real application.
 
-In this paper, we first focus on Intel’s holistic efforts to build the hardware/software ecosystem, presenting key SoC-level features that facilitate efficient CPU-accelerator interaction, effortless programming and use, and scalable accelerator sharing and virtualization. Next, we delve into the functions, microarchitectures, and software stacks of three new on-chip accelerators: Data Streaming Accelerator (DSA), In-memory Analytics Accelerator (IAA), and Dynamic Load Balancer (DLB). Lastly, we demonstrate that the Intel’s on-chip accelerators can not only significantly reduce the datacenter taxes but also accelerate data-intensive applications essential for hyperscale services, with little effort to use the accelerators.
+[paper](https://dl.acm.org/doi/abs/10.1145/3620665.3640401)
 
-[paper](https://ieeexplore.ieee.org/document/10609705)
+[arXiv version](https://arxiv.org/abs/2305.02480)
 
-[slides](https://YifanYuan3.github.io/files/isca2024industry.pptx)
+[slides](https://YifanYuan3.github.io/files/dsa-asplos24.pptx)
