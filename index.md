@@ -1,8 +1,14 @@
 Welcome to Yifan Yuan's website!
 
-**NEWS [Oct. 2024]**: our paper [M5: Mastering page migration and memory management for CXL-based tiered memory systems](https://yifanyuan3.github.io/publication/m5), the first-ever paper based on real CXL Type-2 device, has been accepted by ASPLOS'25.
+**NEWS [Oct. 2024]**: our paper [Dynamic Load Balancer in Intel Xeon Scalable Processor: Performance Analyses, Enhancements, and Guidelines](https://yifanyuan3.github.io/publication/dlb), the first paper about DLB in the latest Intel Xeon CPU, has been accepted by ISCA'25.
+
+**NEWS [Oct. 2024]**: our paper [A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices](https://yifanyuan3.github.io/publication/a4) has been accepted by ISCA'25.
+
+**NEWS [Oct. 2024]**: our paper [M5: Mastering page migration and memory management for CXL-based tiered memory systems](https://yifanyuan3.github.io/publication/m5) has been accepted by ASPLOS'25.
 
 **NEWS [Jul. 2024]**: our paper [Demystifying a CXL Type2 Device: A Heterogeneous Cooperative Computing Perspective](https://yifanyuan3.github.io/publication/cxl2), the first-ever paper based on real CXL Type-2 device, has been accepted by MICRO'24.
+
+**NEWS [Jun. 2024]**: Joined Meta [AI and systems Co-design team](https://aisystemcodesign.github.io).
 
 **NEWS [Mar. 2024]**: our paper [Nomad: Non-Exclusive Memory Tiering via Transactional Page Migration](https://yifanyuan3.github.io/publication/nomad) has been accepted by OSDI'24.
 
