@@ -1,5 +1,7 @@
 Welcome to Yifan Yuan's website!
 
+**NEWS [Mar. 2025]**: our paper [DCPerf: An Open-Source, Battle-Tested Performance Benchmark Suite for Datacenter Workloads](https://yifanyuan3.github.io/publication/dcperf) has been accepted by ISCA'25 (industry session).
+
 **NEWS [Mar. 2025]**: our paper [Dynamic Load Balancer in Intel Xeon Scalable Processor: Performance Analyses, Enhancements, and Guidelines](https://yifanyuan3.github.io/publication/dlb), the first paper about DLB in the latest Intel Xeon CPU, has been accepted by ISCA'25.
 
 **NEWS [Mar. 2025]**: our paper [A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices](https://yifanyuan3.github.io/publication/a4) has been accepted by ISCA'25.
