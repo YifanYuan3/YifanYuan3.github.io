@@ -1,0 +1,13 @@
+---
+title: "DCPerf: An Open-Source, Battle-Tested Performance Benchmark Suite for Datacenter Workloads"
+collection: publications
+permalink: /publication/dcperf
+excerpt: 'This paper presents our comprehensive benchmark suites faithfully representing Meta's datacenter workloads at all levels (software architecture, software metrics, architectural and micro-architectural metrics, etc.). [paper]() [slides]()'
+date: '2025.6.21
+venue: 'ISCA'
+
+---
+
+We present DCPerf, the first performance benchmark suite actively used to inform procurement decisions for millions of CPUs in hyperscale datacenters while also remaining open source. Although numerous benchmarks exist, our evaluation reveals that they inaccurately project server performance for datacenter workloads or fail to scale to resemble production workloads on modern many-core servers. DCPerf distinguishes itself in two aspects: (1) it faithfully models essential software architectures and features of datacenter applications, such as microservice architecture and highly optimized multi-process or multi-thread concurrency; and (2) it strives to align its performance characteristics with those of production workloads, at both the system level and microarchitecture level. Both are made possible by our privileged access to the source code and hyperscale production deployments of datacenter workloads. We are now extending this privilege to the broader community by open-sourcing DCPerf. Additionally, we share real-world examples of using DCPerf in critical decision-making, such as selecting future CPU SKUs and guiding CPU vendors in optimizing their designs. Our evaluation demonstrates that DCPerf accurately projects the performance of representative production workloads within a 3.3% error margin across four generations of production servers introduced over a span of six years, with core counts varying widely from 36 to 176.
+
+[paper]() [slides]()
