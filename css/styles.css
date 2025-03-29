@@ -42,8 +42,8 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 189, 93, 56;
-  /* --bs-primary-rgb: 13, 25, 63; */
+  /*--bs-primary-rgb: 189, 93, 56; */
+  --bs-primary-rgb: 13, 25, 63;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -74,8 +74,8 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #bd5d38;
-  --bs-link-hover-color: #974a2d;
+  --bs-link-color: #82B0D2;
+  --bs-link-hover-color: #82B0D2;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
@@ -10989,43 +10989,43 @@ section.resume-section .resume-section-content {
 }
 
 .acc {
-  background-color: #EB4D5C;
-  border-color: #EB4D5C;
+  background-color: #FFBE7A;
+  border-color: #FFBE7A;
 }
 
 .nic {
-  background-color: #173576;
-  border-color: #173576;
+  background-color: #FA7F6F;
+  border-color: #FA7F6F;
 }
 
 .cloud {
-  background-color: #0dcaf0;
-  border-color: #0dcaf0;
+  background-color: #8ECFC9;
+  border-color: #8ECFC9;
 }
 
 .ioss {
-  background-color: #c46d4c;
-  border-color: #c46d4c;
+  background-color: #82B0D2;
+  border-color: #82B0D2;
 }
 
 .device {
-  background-color: #ffc107;
-  border-color: #ffc107;
+  background-color: #BEB8DC;
+  border-color: #BEB8DC;
 }
 
 .model {
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  background-color: #999999;
+  border-color: #999999;
 }
 
 .memory {
-  background-color: #dfc2c4;
-  border-color: #dfc2c4;
+  background-color: #96C37D;
+  border-color: #96C37D;
 }
 
 .os {
-  background-color: #055160;
-  border-color: #055160;
+  background-color: #14517C;
+  border-color: #14517C;
 }
 
 .font_palatino {
