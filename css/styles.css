@@ -10940,7 +10940,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #1a2d50;
 }
 
 .dev-icons {
@@ -10977,50 +10977,52 @@ section.resume-section .resume-section-content {
 
 .badge {
   display: inline-block;
-  padding: 5px 10px;
-  margin-right: 0px;
+  padding: 4px 10px;
+  margin-right: 2px;
+  margin-bottom: 3px;
   color: #fff;
   border-radius: 15px;
+  font-size: 0.8em;
 }
 
 .ml {
-  background-color: #F1D77E;
-  border-color: #F1D77E;
+  background-color: #C8A415;
+  border-color: #C8A415;
 }
 
 .acc {
-  background-color: #FFBE7A;
-  border-color: #FFBE7A;
+  background-color: #D48A2C;
+  border-color: #D48A2C;
 }
 
 .nic {
-  background-color: #FA7F6F;
-  border-color: #FA7F6F;
+  background-color: #D4534A;
+  border-color: #D4534A;
 }
 
 .cloud {
-  background-color: #8ECFC9;
-  border-color: #8ECFC9;
+  background-color: #2E8B7A;
+  border-color: #2E8B7A;
 }
 
 .ioss {
-  background-color: #82B0D2;
-  border-color: #82B0D2;
+  background-color: #3A7CB8;
+  border-color: #3A7CB8;
 }
 
 .device {
-  background-color: #BEB8DC;
-  border-color: #BEB8DC;
+  background-color: #7B6FA6;
+  border-color: #7B6FA6;
 }
 
 .model {
-  background-color: #999999;
-  border-color: #999999;
+  background-color: #666666;
+  border-color: #666666;
 }
 
 .memory {
-  background-color: #96C37D;
-  border-color: #96C37D;
+  background-color: #4A8C32;
+  border-color: #4A8C32;
 }
 
 .os {
